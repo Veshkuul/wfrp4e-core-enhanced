@@ -4,13 +4,14 @@
     "description": "Enhanced content and functionality for the Core Content Module",
     "version": "1.0.0",
     "author": "Veshkuul",
+    "system": ["wfrp4e"],
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "packs": [
         {
             "name": "bestiary",
             "label": "Bestiary",
-            "system": ["wfrp4e"],
+            "system": "wfrp4e",
             "module": "wfrp4e-core-enhanced",
             "path": "./packs/bestiary.db",
             "type": "Actor"
@@ -20,7 +21,7 @@
             "label": "Trappings",
             "path": "./packs/trappings.db",
             "type": "Item",
-            "system": ["wfrp4e"],
+            "system": "wfrp4e",
             "module": "wfrp4e-core-enhanced"
         },
         {
@@ -28,7 +29,7 @@
             "label": "Journals (Core)",
             "path": "./packs/journal-entries.db",
             "type": "JournalEntry",
-            "system": ["wfrp4e"],
+            "system": "wfrp4e",
             "module": "wfrp4e-core-enhanced"
         },
         {
@@ -36,7 +37,7 @@
             "label": "Scenes (Core)",
             "path": "./packs/maps.db",
             "type": "Scene",
-            "system": ["wfrp4e"],
+            "system": "wfrp4e",
             "module": "wfrp4e-core-enhanced"
         },
         {
@@ -44,7 +45,7 @@
             "type": "RollTable",
             "name": "tables",
             "path": "packs/tables.db",
-            "system": ["wfrp4e"],
+            "system": "wfrp4e",
             "module": "wfrp4e-core-enhanced"
         }
     ],
