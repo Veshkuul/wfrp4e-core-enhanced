@@ -2,10 +2,9 @@
     "name": "wfrp4e-core-enhanced",
     "title": "WFRP4e - Core Content Module - Enhanced",
     "description": "Enhanced content and functionality for the Core Content Module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Veshkuul",
-    "system": ["wfrp4e"],
-    "minimumCoreVersion": "0.8.6",
+    "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "packs": [
         
