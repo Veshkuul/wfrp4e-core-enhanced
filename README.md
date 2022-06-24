@@ -1,2 +1,2 @@
 # wfrp4e-core-enhanced
-Enhanced content and functionality for the Core Content Module
+WFRP4e for Foundry VTT - Warhammer Fantasy Roleplay - Core Rules - Enhanced
